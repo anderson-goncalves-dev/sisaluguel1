@@ -3,7 +3,7 @@
 
 ##arquivo que contem variaveis que serão usadas no arquivo de configuração do BD
 
-define('HOST', 'localhost');
-define('USER', 'root');
-define('PASS', '');
-define('BASE', 'aluga');
+define('HOST', 'http://10.70.200.253:8081');
+define('USER', 'sisaluguel');
+define('PASS', 'sisalugue2021');
+define('BASE', 'sisaluguel');
